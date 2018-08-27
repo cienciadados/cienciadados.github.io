@@ -26,8 +26,8 @@ navbar-links:
   About Me: "aboutme"
   Research: "research"
   Teaching:
-    - ME315: "https://www.uol.com.br"
-    - MI422: "https://www.latam.com.br"
+    - ME315: "https://www.dac.unicamp.br/portal/caderno-de-horarios/2018/2/S/G/IMECC/ME315"
+    - MI422: "https://www.dac.unicamp.br/portal/caderno-de-horarios/2018/2/S/P/IMECC/MI422"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
