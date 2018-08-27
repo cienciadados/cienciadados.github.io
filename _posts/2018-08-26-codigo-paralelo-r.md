@@ -2,7 +2,7 @@
 layout: post
 title: "Implementando códigos paralelos em R..."
 subtitle: "... não é tão complicado"
-image: /img/nate-grant-346782-unsplash.jpg
+image: /img/charles-deluvio-456501-unsplash.jpg
 tags: [R, paralelo, foreach, doMC]
 ---
 
