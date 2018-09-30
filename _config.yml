@@ -23,6 +23,7 @@ description: Ciência de Dados na UNICAMP.
 
 # List of links in the navigation bar
 navbar-links:
+  Introdução: ""
   O Curso:
     - Introdução ao R: ""
     - Manipulação de Dados: ""
